@@ -69,5 +69,8 @@ python UKBiobankGWAS/scripts/summary_parser.py
 ### To do
 
 - add args to allow only qc step
-- add plink
+
+### Plink files added 5th July 2022
+last column in jobs.csv file needs to be changed from bolt to plink
+need script clean_up.sh to combine individual chromosome output
 
